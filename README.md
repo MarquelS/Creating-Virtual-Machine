@@ -1,7 +1,7 @@
 
 
 <h1>Creating Virtual Machine (Azure)</h1>
-This tutorial outlines the process of creating Azure Virtual Machines.<br />
+This tutorial outlines the process of creating Azure Virtual Machines. Virtual Machines are software-based creations of a physical computer. They can be created and used for multiple reasons from, disaster recovery, and training to my favorite, sandboxing. <br />
 
 
 <h2>Environments and Technologies Used</h2>
